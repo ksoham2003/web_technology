@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<booklibrary>
+<book>
+    <bookname>xml</bookname>
+    <price>2000</price>
+    <auther>nidhish</auther>
+    <publisher>dyo</publisher>
+</book>
+</booklibrary>
