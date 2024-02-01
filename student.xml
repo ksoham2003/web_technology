@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl "href="Rule.xsl" ?> 
+<student> 
+<s> 
+<name> Soham </name> 
+<branch> CSE</branch> 
+<age>18</age> 
+<city> kolhapur </city> 
+</s> 
+<s> 
+<name> Aniket patil </name> 
+<branch> CSE</branch> 
+<age> 20</age> 
+<city> mumbai </city> 
+</s> 
+<s> 
+<name> Shriya</name> 
+<branch> CSE</branch> 
+<age> 23</age> 
+<city> Kolhapur</city> 
+</s> 
+<s> 
+<name> Shivendra</name> 
+<branch> CSE</branch> 
+<age> 17</age> 
+<city> pune</city> 
+</s> 
+</student> 
